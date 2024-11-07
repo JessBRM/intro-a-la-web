@@ -8,3 +8,8 @@
 4. Cuyo
 
 ## Exóticos
+
+- Koala
+- Araña
+- Serpiente
+- Gato montés
