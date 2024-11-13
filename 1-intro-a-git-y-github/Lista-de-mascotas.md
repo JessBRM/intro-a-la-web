@@ -5,11 +5,11 @@
 1. Perro
 2. Gato
 3. Conejo
-4. Cuyo
+
 
 ## Exóticos
 
 - Koala
 - Araña
-- Serpiente
+- oso
 - Gato montés
